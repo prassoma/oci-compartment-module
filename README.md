@@ -1,1 +1,1 @@
-# prassoma-oci-compartment-module
+# oci-compartment-module
